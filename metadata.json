@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER LUMEN – Curated Design & Modern Living",
+  "description": "Artisan digital storefront for sculptural lighting, stoneware ceramics, architectural furniture, and minimalist studio objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
